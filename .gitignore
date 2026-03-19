@@ -43,6 +43,7 @@ eval_results_*.json
 # Environment variables
 .env
 .env.*
+!.env.example
 
 # Logs
 *.log
